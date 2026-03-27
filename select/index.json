@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "base_track": "モエチャッカファイア",
+  "base_artist": "弌誠",
+  "createdAt": "2026-03-27T17:57:03.149978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "モエチャッカファイア",
+      "artist": "エレン・ジョー(CV:若山詩音)",
+      "has_synced": true,
+      "path": "select/01_モエチャッカファイア_エレン・ジョー(CV_若山詩音).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "has_synced": false,
+      "path": "select/pl_01_モエチャッカファイア_弌誠.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "has_synced": true,
+      "path": "select/localdb_01_モエチャッカファイア_弌誠.lrc",
+      "repo_name": "Y2_FSvacEg0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "has_synced": true,
+      "path": "select/localdb_02_モエチャッカファイア_弌誠.lrc",
+      "repo_name": "qzoq8cpp6qI"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "モエチャッカファイア",
+      "artist": "弌誠",
+      "has_synced": true,
+      "path": "select/localdb_03_モエチャッカファイア_弌誠.lrc",
+      "repo_name": "wZlv3qDPfjk"
+    }
+  ]
+}
